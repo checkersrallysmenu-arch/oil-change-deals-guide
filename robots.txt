@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oil-change-deals-guide.pages.dev/sitemap.xml
